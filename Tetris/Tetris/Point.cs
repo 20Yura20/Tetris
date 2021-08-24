@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Tetris
 {
-    class Point
+    public class Point
     {
         int x, y;
         char c;
